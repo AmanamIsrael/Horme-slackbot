@@ -23,6 +23,9 @@
   "homepage": "https://github.com/IsraelAmanam/Horme-slackbot#readme",
   "dependencies": {
     "axios": "^0.19.0",
-    "slackbots": "^1.2.0"
+    "mongoose": "^5.7.1",
+    "slack-client": "^2.0.6",
+    "slackbots": "^1.2.0",
+    "xmlhttprequest": "^1.8.0"
   }
 }
