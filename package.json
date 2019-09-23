@@ -1,0 +1,24 @@
+{
+  "name": "horme-slackbot",
+  "version": "1.0.0",
+  "description": "Slackbot to save conversation to external drive",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsraelAmanam/Horme-slackbot.git"
+  },
+  "keywords": [
+    "slack",
+    "slackbots",
+    "slackbot"
+  ],
+  "author": "HNG Team Horme",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IsraelAmanam/Horme-slackbot/issues"
+  },
+  "homepage": "https://github.com/IsraelAmanam/Horme-slackbot#readme"
+}
