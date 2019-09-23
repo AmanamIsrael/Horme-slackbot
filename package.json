@@ -1,0 +1,12 @@
+{
+  "name": "horme-slackbot",
+  "version": "1.0.0",
+  "description": "a slackbot that can be used to save conversation in an external drive user sign up ()((on external drive) user link external workspace user send conversation to external drive from slaclack workspace user send conversation to external drive from slack workspace user login to the extxxternal drive to see thier slack conversations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Team-horme",
+  "license": "ISC",
+  "start": "node index"
+}
